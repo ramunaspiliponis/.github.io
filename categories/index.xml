@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Naujas puslapis</title>
-	<link>https://ramunaspiliponis.github.io/categories/</link>
+	<link>https://ramunaspiliponis.github.io/.github.io/categories/</link>
 	<description>Recent content in Categories on Naujas puslapis</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="https://ramunaspiliponis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ramunaspiliponis.github.io/.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Antras Postas</title>
-		<link>https://ramunaspiliponis.github.io/post/antras-postas/</link>
+		<link>https://ramunaspiliponis.github.io/.github.io/post/antras-postas/</link>
 		<pubDate>Mon, 26 May 2025 22:51:57 +0300</pubDate>
 		
-		<guid>https://ramunaspiliponis.github.io/post/antras-postas/</guid>
+		<guid>https://ramunaspiliponis.github.io/.github.io/post/antras-postas/</guid>
 		<description>&lt;p&gt;&lt;img src=&#34;image1.png&#34; alt=&#34;Image 1&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1&lt;/span&gt;&lt;span&gt;package main
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2&lt;/span&gt;&lt;span&gt;
@@ -30,10 +30,10 @@
 	
 	<item>
 		<title>Pirmas Postas</title>
-		<link>https://ramunaspiliponis.github.io/post/pirmas-postas/</link>
+		<link>https://ramunaspiliponis.github.io/.github.io/post/pirmas-postas/</link>
 		<pubDate>Mon, 26 May 2025 22:31:06 +0300</pubDate>
 		
-		<guid>https://ramunaspiliponis.github.io/post/pirmas-postas/</guid>
+		<guid>https://ramunaspiliponis.github.io/.github.io/post/pirmas-postas/</guid>
 		<description>&lt;p&gt;Po meta duomenų parašykite pora sakinių. Išsaugokite failą.
 Paleiskite serverį (hugo server; hugo serve -D sukompiliuos ir „draft: true“ pažymėtus puslapius) ir
 patikrinkite ar puslapis buvo sėkmingai sukurtas.&lt;/p&gt;
